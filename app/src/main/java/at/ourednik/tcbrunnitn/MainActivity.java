@@ -1,4 +1,3 @@
-\
 package at.ourednik.tcbrunnitn;
 
 import android.app.Activity;
