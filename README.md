@@ -12,4 +12,4 @@ Diese App öffnet die NÖTV-ITN-Rangliste und filtert automatisch nach `TC Brunn
 6. ZIP entpacken, darin liegt `app-debug.apk`.
 7. APK auf Android installieren.
 
-Hinweis: Das ist eine Debug-APK. Für private Nutzung ist das ausreichend.
+Hinweis: Das ist eine Debug-APK. Für private Nutzung ist das ausreichend. 
